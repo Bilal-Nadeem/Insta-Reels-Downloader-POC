@@ -1,5 +1,6 @@
-# Proof Of Concept Instagram Reels Downloder (Educational Purposes)
+# Outdated
 
+# Proof Of Concept Instagram Reels Downloder (Educational Purposes)
 ## Installation
 
 1. Clone this repo
